@@ -14,4 +14,4 @@ SQLite (local database)
 - Subqueries
 
 ## Status
-Database setup completed. Queries in progress.
+Database setup completed. Queries in progress.# sql-music-store-analysis
