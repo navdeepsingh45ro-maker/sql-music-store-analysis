@@ -1,3 +1,6 @@
+## Insights
+Detailed business insights and recommendations are available in [insights.md](insights.md).
+
 # SQL Project: Music Store Analysis
 
 ## Objective
